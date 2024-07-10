@@ -1,1 +1,18 @@
+body{
+  background-color:#000000;
+  color:#F88379; 
+  font-family:"Arial, helvetica, sans-serif;
+  font-size:18px;
+  Font-weight: 100px; 
+  text-transform:
+  margin:10% 20%;
+  
+}
 
+.exp.header{
+  text-align:center;
+  text-transform:uppercase;
+  border-top:1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color:rgba(0,0,0,0.05);
+}
